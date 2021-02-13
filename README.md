@@ -27,10 +27,3 @@ My name is  **Sako Afonso**
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/sako-afonso-m-vuna-00682711b/) 
 
 
-![ Afonso's github stats](https://github-readme-stats.vercel.app/api?username=tuliofaria&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuliofaria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-Here are some ideas to get you started:
