@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello! 👋  Welcome to my Github 👋
+### Hello! Welcome to my Github 👋
 ##### My name is Sako Afonso, I´m junior Web Developer
           
          
