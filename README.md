@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hello! 👋  Welcome to my Github 👋
 #### My name is Sako Afonso
           
-          I´m Web Developer
+          I´m Junior Web Developer
 
 
 
