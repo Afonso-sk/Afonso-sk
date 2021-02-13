@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 ## Hello! welcome to my Github 👋
 
 My name is  **Sako Afonso** 
-💻 Junior Web Developer | Javascript | React Js | Student of Computer Engineering
+ 💻 Junior Web Developer | Javascript | React Js | Student of Computer Engineering
 
-#
+
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/sako-afonso-m-vuna-00682711b/) 
 
-   
-   
