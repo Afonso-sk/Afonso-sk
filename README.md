@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 # Hello! 👋  Welcome to my Github 👋
 
-### My name is Sako Afonso Afonso
+          ### Name:Sako Afonso Afonso
+          
+          I´m Web Developer
 
 
 
