@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 ### Hello! 👋  Welcome to my Github 👋
 
-## Sako Afonso :
-https://www.linkedin.com/in/sako-afonso-m-vuna-00682711b/
+# ------- Sako Afonso-----------
+
+
 
 
    
