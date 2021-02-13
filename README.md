@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 ## Hello! welcome to my Github 👋
 
 My name is  **Sako Afonso** 
+
+
+
  💻 Junior Web Developer | Javascript | React Js | Student of Computer Engineering
 
 
