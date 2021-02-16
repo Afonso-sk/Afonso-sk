@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello! welcome to my Github 👋<img src="https://github.com/Afonso-sk/Afonso-sk/blob/main/web.gif"" width="246px" height="140" align="right" alt="Web-developer"> 
+## Hello! welcome to my Github 👋<img src="https://github.com/Afonso-sk/Afonso-sk/blob/main/web.gif" width="246px" height="140" align="right" alt="Web-developer"> 
 
 My name is  **Sako Afonso** 
 
