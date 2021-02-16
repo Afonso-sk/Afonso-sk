@@ -1,7 +1,7 @@
 
 
 <!--
-### Hi there 👋
+### Hi there 👋 <img src="https://github.com/Afonso-sk/Afonso-sk/blob/main/web.gif" height="24">
 **Afonso-sk/Afonso-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
