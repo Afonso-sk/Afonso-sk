@@ -21,7 +21,7 @@ My name is  **Sako Afonso**
 
 
 
- 💻I´m  Junior Web Developer | Front-end Developer React JS & Javascript | Student of Computer Engineering
+ 💻I´m  Junior Web Developer | Front-end Developer React JS & Javascript | .NET Developer | Student of Computer Engineering
 
 
 
