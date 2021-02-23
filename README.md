@@ -21,7 +21,7 @@ My name is  **Sako Afonso**
 
 
 
- 💻I´m  Junior Web Developer | Junior Java Developer | Student of Computer Engineering
+ 💻I´m  Web Developer | Junior .NET /C# Developer | Student of Computer Engineering
 
 
 
