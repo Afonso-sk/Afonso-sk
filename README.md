@@ -26,4 +26,6 @@ My name is  **Sako Afonso**
 
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/sako-afonso-m-vuna-00682711b/) 
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=afonso:tec.sakovuna@@gmail.com)](afonso:tec.sakovuna@gmail.com)
+ <a href="mailto:tec.sakovuna@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" title="Send me an email" align="right" alt="Gmail">
+</a>
