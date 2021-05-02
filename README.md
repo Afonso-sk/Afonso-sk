@@ -21,7 +21,7 @@ My name is  **Sako Afonso**
 
 
 
- 💻I´m  Web Developer 
+ 💻I´m  Front-end Developer | Junior Outsystems Developer
 
 
 
