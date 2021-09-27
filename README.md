@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ## Hello! welcome to my Github 👋<img src="https://github.com/Afonso-sk/Afonso-sk/blob/main/web1.gif" width="246px" height="140" align="right" alt="Web-developer"> 
 
-My name is  **Sako Afonso** 
+My name is  **Sako Afonso Miezi Vuna** 
 
 
 
