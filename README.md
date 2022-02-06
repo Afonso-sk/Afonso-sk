@@ -21,7 +21,7 @@ My name is  **Sako Afonso Miezi Vuna**
 
 
 
- 💻I´m  Junior .Net Developer
+ 💻Junior .Net Developer
 
 
 
