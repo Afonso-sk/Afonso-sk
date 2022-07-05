@@ -21,7 +21,7 @@ My name is  **Sako Afonso Miezi Vuna**
 
 
 
- 💻Full Stack Developer
+ 💻.Net Developer | Outsystems Developer
 
 
 
