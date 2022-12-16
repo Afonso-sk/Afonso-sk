@@ -21,7 +21,7 @@ My name is  **Sako Afonso Miezi Vuna**
 
 
 
- 💻.Net Developer | Outsystems Developer
+ 💻.Junior Developer 
 
 
 
