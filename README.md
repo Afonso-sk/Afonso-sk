@@ -21,7 +21,7 @@ My name is  **Sako Afonso Miezi Vuna**
 
 
 
- 💻.Junior Developer 
+ 💻.Freelancer em Criação de Sites 
 
 
 
