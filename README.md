@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
- 💻.Freelancer em Criação de Sites 
+ 💻Analista de cibercegurança | Analista SOC | Suporte técnico | Blue team | Desenvolvedor web
 
 
 
