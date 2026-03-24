@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
- 💻Analista de cibercegurança | Analista SOC | Suporte técnico | Blue team | Desenvolvedor web
+ 💻Junior Cybersecurity Analyst |SOC Analyst | Google Cybersecurity Certified 
 
 
 
