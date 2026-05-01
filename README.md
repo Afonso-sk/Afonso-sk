@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
- 💻Junior Cybersecurity Analyst |SOC Analyst | Google Cybersecurity Certified 
+ 💻Junior Cybersecurity Analyst | SOC L1 | SIEM (Wazuh, Splunk) | Incident Response | Log Analysis | Blue Team | Google Cybersecurity Certified
 
 
 
